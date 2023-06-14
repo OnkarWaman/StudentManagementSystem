@@ -8,6 +8,7 @@ NOTE: Links will be active only if my laptop is online, because i've used my lap
 <br>
 
 
+![video](https://github.com/OnkarWaman/StudentManagementSystem/assets/90407551/6c34e256-2cbe-4063-8b21-ac5cae0bdfd8)
 
 
 <br>
