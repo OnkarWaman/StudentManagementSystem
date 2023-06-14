@@ -7,7 +7,7 @@ http://onkarwaman.ddns.net:8080/StudentManagementSystem/<br>
 NOTE: Links will be active only if my laptop is online, because i've used my laptop as a server
 <br>
 
-![video](https://github.com/OnkarWaman/StudentManagementSystem/assets/90407551/3fe50249-e794-475c-8e4e-b3b2e27c1a5f)
+
 
 
 <br>
