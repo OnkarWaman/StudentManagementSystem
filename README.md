@@ -6,7 +6,11 @@ OR<br>
 http://onkarwaman.ddns.net:8080/StudentManagementSystem/<br>
 NOTE: Links will be active only if my laptop is online, because i've used my laptop as a server
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ew3jHA3N390" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+https://github.com/OnkarWaman/StudentManagementSystem/assets/90407551/81efa479-3b2c-4b01-8aad-3718dfa4394b
+
+
 
 
 <br>
