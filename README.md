@@ -4,6 +4,8 @@ Links of Web Application-<br>
 http://onkarwaman.ddnsfree.com:8080/StudentManagementSystem/<br>
 OR<br>
 http://onkarwaman.ddns.net:8080/StudentManagementSystem/<br>
+username=onkarwaman<br>
+password=onkarwaman<br>
 NOTE: Links will be active only if my laptop is online, because i've used my laptop as a server
 <br>
 
