@@ -78,10 +78,14 @@ public class HomePage extends HttpServlet {
 				    		""");
 				HttpSession hs = req.getSession();
 				hs.setAttribute("conObject", con);
-				Date d = new Date();
-		        pw.println("<h1>"+d+"</h1>");
 
 		        pw.println("""
+		        		<h1><p id="time"></p></h1>
+		        		<script>
+		        		    setInterval(function(){
+		        		        document.getElementById("time").innerHTML = Date();
+		        		    },1000);
+		        		</script>
 		        		<br>
 		        		<br>
 		        		<a href="insertpage">Add New Student</a>
