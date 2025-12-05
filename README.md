@@ -1,7 +1,7 @@
 # Student Management System
 
 Link of Web Application-<br>
-http://onkarwaman.ddnsfree.com:8080/StudentManagementSystem/<br>
+http://onkarwaman.ddnsfree.com/StudentManagementSystem/<br>
 
 username=onkarwaman<br>
 password=onkarwaman<br>
