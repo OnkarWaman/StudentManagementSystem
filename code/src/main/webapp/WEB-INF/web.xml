@@ -6,16 +6,16 @@
 	
 	<context-param>
 		<param-name>DBurl</param-name>
-		<param-value>jdbc:mysql://db4free.net:3306/onkarwaman</param-value>
+		<param-value>jdbc:mysql://localhost:3306/java</param-value>
 	</context-param>
 	
 	<context-param>
 		<param-name>DBusername</param-name>
-		<param-value>onkarwaman</param-value>
+		<param-value>root</param-value>
 	</context-param>
 	
 	<context-param>
 		<param-name>DBpassword</param-name>
-		<param-value>onkarwaman</param-value>
+		<param-value>root</param-value>
 	</context-param>
 </web-app>
